@@ -1,0 +1,54 @@
+{
+  "What's the story of Peter the rabbit?": {
+    "answer": "The story of Peter Rabbit is about four little rabbits named Flopsy, Mopsy, Cotton-tail, and Peter who lived with their mother in a sand-bank and went on various adventures. There is no mention of Michael Jackson. \n",
+    "sources": "The_Tale_of_Peter_Rabbit, chunk 0; The_Tale_of_Benjamin_Bunny, chunk 0"
+  },
+  "What's the name of the squirrel?": {
+    "answer": "The name of the squirrel is Nutkin.\n",
+    "sources": "The_Tale_of_Squirrel_Nutkin, chunks 0 and 3."
+  },
+  "Can anything be said about time of the year in the stories?": {
+    "answer": "In the stories, there are mentions of onions and herbs being hung up, which could suggest a harvest time in the fall. However, there is not enough information to definitively determine a time of year. \n",
+    "sources": "The_Tale_of_Benjamin_Bunny, chunk 6; The_Tale_of_Peter_Rabbit, chunk 5"
+  },
+  "What animals are mentioned in the texts?": {
+    "answer": "The animals mentioned in the texts are: a white cat, gold-fish, three blind mice, an old mouse, and rabbits. \n",
+    "sources": "The_Tale_of_Peter_Rabbit, chunks 3 and 4."
+  },
+  "In what context gold fish is mentioned?": {
+    "answer": "Gold fish is mentioned in The Tale of Peter Rabbit, where a white cat is staring at some gold-fish in a pond.",
+    "sources": ""
+  },
+  "What Peter ate in the garden?": {
+    "answer": "Peter ate some lettuces, some broad beans, and some radishes in the garden. He also looked for some parsley but encountered Mr. McGregor and ran away, losing his shoes in the process. There is no mention of Peter eating anything else in the garden. Benjamin Bunny, on the other hand, ate a lettuce leaf and said that he and his father used to come to the garden to get lettuces for their Sunday dinner. Peter did not eat anything else and dropped half the onions he was carrying. \n",
+    "sources": "The_Tale_of_Peter_Rabbit, chunk 1; The_Tale_of_Benjamin_Bunny, chunk 3 and 4."
+  },
+  "Where did Peter meet Mr. McGregor?": {
+    "answer": "Peter met Mr. McGregor around the end of a cucumber frame in the garden.\n",
+    "sources": "The_Tale_of_Peter_Rabbit, chunk 1"
+  },
+  "What was an old mouse doing when Peter met it?": {
+    "answer": "Peter met an old mouse who was running in and out over the stone doorstep, carrying peas and beans to her family in the wood. The mouse had a large pea in her mouth and could not answer Peter's question about the way to the gate. \n",
+    "sources": "The_Tale_of_Peter_Rabbit, chunk 3"
+  },
+  "What did Nutkin like to do?": {
+    "answer": "Nutkin liked to play ninepins with a crab apple and green fir-cones, gather oak-apples and play marbles, and tickle old Mr. Brown with a nettle and sing. He also gathered robin's pincushions off a briar bush and stuck them full of pine-needle pins. He sang \"Hum-a-bum! buzz! buzz! Hum-a-bum buzz!\" and \"Old Mr. B! Riddle-me-ree! Hitty Pitty within the wall, Hitty Pitty without the wall; If you touch Hitty Pitty, Hitty Pitty will bite you!\" when he was being impertinent. \n",
+    "sources": "The_Tale_of_Squirrel_Nutkin, chunks 2, 4, and 7."
+  },
+  "How Ben and Peter are related?": {
+    "answer": "Benjamin and Peter are cousins.\n",
+    "sources": "The_Tale_of_Benjamin_Bunny, chunk 1"
+  },
+  "How many siblings did Peter have?": {
+    "answer": "Peter had three siblings: Flopsy, Mopsy, and Cotton-tail.\n",
+    "sources": "The_Tale_of_Peter_Rabbit, chunk 0"
+  },
+  "How Peter and Benjamin are related?": {
+    "answer": "Peter and Benjamin are cousins. \n",
+    "sources": "The_Tale_of_Benjamin_Bunny, chunk 1 and 3."
+  },
+  "What are the names of mice?": {
+    "answer": "The names of the mice are Tom Thumb and Hunca Munca. \n",
+    "sources": "The_Tale_of_Two_Bad_Mice, chunks 0 and 5."
+  }
+}
