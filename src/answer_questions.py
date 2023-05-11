@@ -8,7 +8,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 
-from .cache import Cache
+from cache import Cache
 
 
 try:
