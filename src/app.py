@@ -36,8 +36,9 @@ if st.button("Ask") or input:
     answer_expander = st.expander("Answer", expanded=True)
     if question:
         answer_expander.write(answer["answer"])
-        sources_expander = st.expander("Sources", expanded=True)
-        sources_expander.write(get_sources_markdown(answer["sources"]))
+        if answer.get("sources"):
+            sources_expander = st.expander("Sources", expanded=True)
+            sources_expander.write(get_sources_markdown(answer["sources"]))
     else:
         answer_expander.write("Please enter a question.")
     st.session_state.expand_examples = False
