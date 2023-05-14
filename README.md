@@ -20,7 +20,18 @@ Your text here
 ```
 
 
-## How to launch
+## How to configure
+
+Specify your OpenAI API key in `.env` file. See `.example.env` for an example.
+
+Generate embeddings and sources with
+
+```sh
+make embeddings
+```
+
+
+## How to run
 
 ```sh
 make run

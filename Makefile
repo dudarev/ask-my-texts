@@ -6,3 +6,6 @@ install:
 
 run:
 	streamlit run src/app.py
+
+embeddings:
+	python src/embeddings.py

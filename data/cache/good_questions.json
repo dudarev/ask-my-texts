@@ -1,54 +1,86 @@
 {
-  "What's the story of Peter the rabbit?": {
-    "answer": "The story of Peter Rabbit is about four little rabbits named Flopsy, Mopsy, Cotton-tail, and Peter who lived with their mother in a sand-bank and went on various adventures. There is no mention of Michael Jackson. \n",
-    "sources": "The_Tale_of_Peter_Rabbit, chunk 0; The_Tale_of_Benjamin_Bunny, chunk 0"
+  "What animals did Mr. McGregor meet?": {
+    "answer": "Mr. McGregor met a white cat and was seen planting young cabbages while Peter Rabbit ate lettuces, broad beans, radishes, and parsley in his garden. Mr. McGregor chased Peter Rabbit after he sneezed and tried to catch him but was unsuccessful. Peter Rabbit eventually escaped through the gate and into the wood outside the garden. Mr. McGregor hung up Peter Rabbit's jacket and shoes as a scarecrow to frighten the blackbirds. No other animals were mentioned.\n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-2, The_Tale_of_Peter_Rabbit.md-5, The_Tale_of_Peter_Rabbit.md-9, The_Tale_of_Peter_Rabbit.md-11"
   },
   "What's the name of the squirrel?": {
     "answer": "The name of the squirrel is Nutkin.\n",
-    "sources": "The_Tale_of_Squirrel_Nutkin, chunks 0 and 3."
+    "sources": "The_Tale_of_Squirrel_Nutkin.md-0, The_Tale_of_Squirrel_Nutkin.md-1, The_Tale_of_Squirrel_Nutkin.md-2, The_Tale_of_Squirrel_Nutkin.md-7"
+  },
+  "What's Owl Island?": {
+    "answer": "Owl Island is an island where the squirrels went to gather nuts and caught seven fat minnows as a present for Old Brown. \n",
+    "sources": "The_Tale_of_Squirrel_Nutkin.md-7, The_Tale_of_Squirrel_Nutkin.md-1"
+  },
+  "What animals does the squirrel meet?": {
+    "answer": "The squirrel meets mice, minnows, and old Mr. Brown. No mention of any other animals.\n",
+    "sources": "The_Tale_of_Squirrel_Nutkin.md-7, The_Tale_of_Squirrel_Nutkin.md-2, The_Tale_of_Squirrel_Nutkin.md-8, The_Tale_of_Squirrel_Nutkin.md-1"
+  },
+  "Why two mice mentioned in the books are bad?": {
+    "answer": "Tom Thumb and Hunca Munca, the two mice mentioned in \"The Tale of Two Bad Mice,\" are considered bad because they caused mischief and damaged property. However, they made up for it by paying for everything they broke and even left a gift in one of the stockings. There is no mention of bad mice in \"The Tale of Peter Rabbit.\"\n",
+    "sources": "The_Tale_of_Two_Bad_Mice.md-0, The_Tale_of_Two_Bad_Mice.md-8, The_Tale_of_Two_Bad_Mice.md-12, The_Tale_of_Peter_Rabbit.md-7"
   },
   "Can anything be said about time of the year in the stories?": {
-    "answer": "In the stories, there are mentions of onions and herbs being hung up, which could suggest a harvest time in the fall. However, there is not enough information to definitively determine a time of year. \n",
-    "sources": "The_Tale_of_Benjamin_Bunny, chunk 6; The_Tale_of_Peter_Rabbit, chunk 5"
+    "answer": "The stories mention different seasons: autumn in \"The Tale of Squirrel Nutkin\" and no specific season in \"The Tale of Peter Rabbit\" and \"The Tale of Benjamin Bunny\". \n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-12, The_Tale_of_Benjamin_Bunny.md-11, The_Tale_of_Squirrel_Nutkin.md-1, The_Tale_of_Squirrel_Nutkin.md-8"
+  },
+  "What vegetables did Peter eat?": {
+    "answer": "Peter did not eat any vegetables. Benjamin ate a lettuce leaf. Peter dropped half the onions. Peter ate lettuces, broad beans, radishes, and tried to find parsley in Mr. McGregor's garden, but he did not eat any cabbages. \n",
+    "sources": "The_Tale_of_Benjamin_Bunny.md-7, The_Tale_of_Benjamin_Bunny.md-8, The_Tale_of_Peter_Rabbit.md-2, The_Tale_of_Peter_Rabbit.md-8"
+  },
+  "What are the names of the mice?": {
+    "answer": "The names of the mice are Tom Thumb and Hunca Munca. \n",
+    "sources": "The_Tale_of_Two_Bad_Mice.md-0, The_Tale_of_Two_Bad_Mice.md-8, The_Tale_of_Two_Bad_Mice.md-10, The_Tale_of_Two_Bad_Mice.md-12"
   },
   "What animals are mentioned in the texts?": {
-    "answer": "The animals mentioned in the texts are: a white cat, gold-fish, three blind mice, an old mouse, and rabbits. \n",
-    "sources": "The_Tale_of_Peter_Rabbit, chunks 3 and 4."
+    "answer": "The animals mentioned in the texts are: a white cat, goldfish, rabbits, a mouse, squirrels, and a minnow. \n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-9, The_Tale_of_Benjamin_Bunny.md-11, The_Tale_of_Peter_Rabbit.md-7, The_Tale_of_Squirrel_Nutkin.md-8"
+  },
+  "What kind of trees are mentioned in the stories?": {
+    "answer": "Chestnut, hazel, beech, oak, and nut trees are mentioned in the stories.\n",
+    "sources": "The_Tale_of_Squirrel_Nutkin.md-0, The_Tale_of_Squirrel_Nutkin.md-1, The_Tale_of_Squirrel_Nutkin.md-7, The_Tale_of_Squirrel_Nutkin.md-8"
+  },
+  "What fishes are mentioned in the stories?": {
+    "answer": "Goldfish and minnows are mentioned in the stories.\n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-9, The_Tale_of_Squirrel_Nutkin.md-8"
+  },
+  "Who is Benjamin Bunny?": {
+    "answer": "Benjamin Bunny is a character in the book \"The Tale of Benjamin Bunny\" by Beatrix Potter. He is a rabbit who goes to visit his relatives in the wood behind Mr. McGregor's garden. His father, Old Mr. Bunny, does not like cats and cuffed one off a basket before whipping Benjamin with a switch. \n",
+    "sources": "The_Tale_of_Benjamin_Bunny.md-0, The_Tale_of_Benjamin_Bunny.md-1, The_Tale_of_Benjamin_Bunny.md-11, The_Tale_of_Benjamin_Bunny.md-12"
   },
   "In what context gold fish is mentioned?": {
-    "answer": "Gold fish is mentioned in The Tale of Peter Rabbit, where a white cat is staring at some gold-fish in a pond.",
-    "sources": ""
+    "answer": "Gold fish is mentioned in the context of a white cat staring at them in the middle of a garden in The Tale of Peter Rabbit. \n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-9"
   },
-  "What Peter ate in the garden?": {
-    "answer": "Peter ate some lettuces, some broad beans, and some radishes in the garden. He also looked for some parsley but encountered Mr. McGregor and ran away, losing his shoes in the process. There is no mention of Peter eating anything else in the garden. Benjamin Bunny, on the other hand, ate a lettuce leaf and said that he and his father used to come to the garden to get lettuces for their Sunday dinner. Peter did not eat anything else and dropped half the onions he was carrying. \n",
-    "sources": "The_Tale_of_Peter_Rabbit, chunk 1; The_Tale_of_Benjamin_Bunny, chunk 3 and 4."
+  "What happened to Peter's father?": {
+    "answer": "Peter's father had an accident and was put in a pie by Mrs. McGregor.\n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-1"
   },
   "Where did Peter meet Mr. McGregor?": {
-    "answer": "Peter met Mr. McGregor around the end of a cucumber frame in the garden.\n",
-    "sources": "The_Tale_of_Peter_Rabbit, chunk 1"
+    "answer": "Peter met Mr. McGregor in Mr. McGregor's garden. \n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-2, The_Tale_of_Peter_Rabbit.md-5, The_Tale_of_Peter_Rabbit.md-11"
+  },
+  "Where did Peter meet Ben?": {
+    "answer": "Peter met Ben in Mr. McGregor's garden.\n",
+    "sources": "The_Tale_of_Benjamin_Bunny.md-2, The_Tale_of_Benjamin_Bunny.md-7, The_Tale_of_Benjamin_Bunny.md-5, The_Tale_of_Benjamin_Bunny.md-4"
   },
   "What was an old mouse doing when Peter met it?": {
-    "answer": "Peter met an old mouse who was running in and out over the stone doorstep, carrying peas and beans to her family in the wood. The mouse had a large pea in her mouth and could not answer Peter's question about the way to the gate. \n",
-    "sources": "The_Tale_of_Peter_Rabbit, chunk 3"
+    "answer": "The old mouse was running in and out over the stone doorstep, carrying peas and beans to her family in the wood when Peter met her.\n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-7"
   },
   "What did Nutkin like to do?": {
-    "answer": "Nutkin liked to play ninepins with a crab apple and green fir-cones, gather oak-apples and play marbles, and tickle old Mr. Brown with a nettle and sing. He also gathered robin's pincushions off a briar bush and stuck them full of pine-needle pins. He sang \"Hum-a-bum! buzz! buzz! Hum-a-bum buzz!\" and \"Old Mr. B! Riddle-me-ree! Hitty Pitty within the wall, Hitty Pitty without the wall; If you touch Hitty Pitty, Hitty Pitty will bite you!\" when he was being impertinent. \n",
-    "sources": "The_Tale_of_Squirrel_Nutkin, chunks 2, 4, and 7."
-  },
-  "How Ben and Peter are related?": {
-    "answer": "Benjamin and Peter are cousins.\n",
-    "sources": "The_Tale_of_Benjamin_Bunny, chunk 1"
-  },
-  "How many siblings did Peter have?": {
-    "answer": "Peter had three siblings: Flopsy, Mopsy, and Cotton-tail.\n",
-    "sources": "The_Tale_of_Peter_Rabbit, chunk 0"
+    "answer": "Nutkin liked to play ninepins with a crab apple and green fir-cones.\n",
+    "sources": "The_Tale_of_Squirrel_Nutkin.md-13"
   },
   "How Peter and Benjamin are related?": {
-    "answer": "Peter and Benjamin are cousins. \n",
-    "sources": "The_Tale_of_Benjamin_Bunny, chunk 1 and 3."
+    "answer": "Peter and Benjamin are cousins.\n",
+    "sources": "The_Tale_of_Benjamin_Bunny.md-2, The_Tale_of_Benjamin_Bunny.md-7, The_Tale_of_Benjamin_Bunny.md-9, The_Tale_of_Benjamin_Bunny.md-5"
   },
-  "What are the names of mice?": {
-    "answer": "The names of the mice are Tom Thumb and Hunca Munca. \n",
-    "sources": "The_Tale_of_Two_Bad_Mice, chunks 0 and 5."
+  "In what contexts cabbages are mentioned?": {
+    "answer": "Cabbages are mentioned in the context of Mr. McGregor's garden, where there were hundreds of them, and where he was planting out young cabbages. Peter Rabbit and Benjamin Bunny also encountered lettuces and onions in the garden. \n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-8, The_Tale_of_Benjamin_Bunny.md-7, The_Tale_of_Benjamin_Bunny.md-13, The_Tale_of_Peter_Rabbit.md-2"
+  },
+  "Where did mice live?": {
+    "answer": "The mice lived in a wood and behind a coal-box. \n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-7, The_Tale_of_Two_Bad_Mice.md-10"
   }
 }

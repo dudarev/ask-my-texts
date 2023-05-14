@@ -10,7 +10,6 @@ from langchain.vectorstores import Chroma
 
 from cache import Cache
 
-
 try:
     from dotenv import load_dotenv
 
