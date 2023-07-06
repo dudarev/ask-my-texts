@@ -118,5 +118,21 @@
   "What kind of animal is old Mr. Brown?": {
     "answer": "Old Mr. Brown is not identified as any specific kind of animal. \n",
     "sources": "The_Tale_of_Squirrel_Nutkin.md-9, The_Tale_of_Squirrel_Nutkin.md-5, The_Tale_of_Benjamin_Bunny.md-11"
+  },
+  "How Nutkin escaped?": {
+    "answer": "Nutkin escaped by breaking his tail and dashing up the staircase and escaping out of the attic window.\n",
+    "sources": "The_Tale_of_Squirrel_Nutkin.md-17"
+  },
+  "What happened to Peter's clothes?": {
+    "answer": "Peter lost his clothes while running away from Mr. McGregor. He left his jacket behind when he wriggled out from under a sieve, and he lost one shoe among the cabbages and the other shoe among the potatoes. He also got caught in a gooseberry net, and his jacket with brass buttons was left behind. The clothes were eventually retrieved by Benjamin Bunny and Peter's family. \n",
+    "sources": "The_Tale_of_Peter_Rabbit.md-12, The_Tale_of_Peter_Rabbit.md-4, The_Tale_of_Peter_Rabbit.md-3, The_Tale_of_Benjamin_Bunny.md-5"
+  },
+  "How does Nutkin behave in his manners?": {
+    "answer": "Nutkin is excessively impertinent in his manners. He is described as bobbing up and down, singing riddles, and being impudent. He even throws sticks and scolds when asked a riddle. Nutkin is not well-behaved.\n",
+    "sources": "The_Tale_of_Squirrel_Nutkin.md-3, The_Tale_of_Squirrel_Nutkin.md-12, The_Tale_of_Squirrel_Nutkin.md-16, The_Tale_of_Squirrel_Nutkin.md-17"
+  },
+  "What was Nutkin's brother name?": {
+    "answer": "Nutkin's brother's name was Twinkleberry.\n",
+    "sources": "The_Tale_of_Squirrel_Nutkin.md-0"
   }
 }

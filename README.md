@@ -1,9 +1,7 @@
 # Ask My Texts
 
-
 - Prepare several texts in Markdown format
 - Ask questions about the texts using [Streamlit](https://www.streamlit.io/) UI
-
 
 ## How to prepare text
 
@@ -16,9 +14,15 @@ In the beginning of each file include Markdown front matter with `url` and `titl
 url: https://example.com
 title: Example
 ---
+
 Your text here
 ```
 
+## How to install dependencies
+
+```sh
+make install
+```
 
 ## How to configure
 
@@ -30,13 +34,11 @@ Generate embeddings and sources with
 make embeddings
 ```
 
-
 ## How to run
 
 ```sh
 make run
 ```
-
 
 ## How to use
 

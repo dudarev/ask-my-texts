@@ -214,6 +214,7 @@ pyyaml==6.0
 regex==2023.5.5
     # via
     #   nltk
+    #   tiktoken
     #   transformers
 requests==2.30.0
     # via
@@ -223,6 +224,7 @@ requests==2.30.0
     #   openai
     #   posthog
     #   streamlit
+    #   tiktoken
     #   torchvision
     #   transformers
 rich==13.3.5
@@ -249,7 +251,7 @@ sqlalchemy==1.4.48
     # via langchain
 starlette==0.26.1
     # via fastapi
-streamlit==1.22.0
+streamlit==1.24.0
     # via -r requirements.in
 sympy==1.12
     # via torch
@@ -259,6 +261,8 @@ tenacity==8.2.2
     #   streamlit
 threadpoolctl==3.1.0
     # via scikit-learn
+tiktoken==0.4.0
+    # via -r requirements.in
 tokenizers==0.13.3
     # via transformers
 toml==0.10.2
